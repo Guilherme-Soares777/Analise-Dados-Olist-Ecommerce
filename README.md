@@ -4,13 +4,6 @@
 ![Power BI](https://img.shields.io/badge/Power%20BI-Desktop-yellow)
 ![SQL](https://img.shields.io/badge/SQL%20Server-ETL-red)
 
-## 📷 Dashboard Overview
-*(Visualização do painel final)*
-
-<img src="Imagens/NOME_DO_SEU_PRINT_PRINCIPAL.png" alt="Dashboard Olist" width="100%">
-
----
-
 ## 📝 Sobre o Projeto
 Este projeto consiste em uma análise exploratória completa (End-to-End) dos dados públicos do **Olist** (maior departamento de e-commerce do Brasil). 
 
@@ -38,3 +31,28 @@ O objetivo foi processar uma base de dados bruta, transformá-la em informaçõe
 ---
 
 ##
+## 📂 Estrutura do Repositório
+
+| Pasta | Descrição |
+| :--- | :--- |
+| `📂 Dashboard` | Arquivo original do projeto (`.pbix`). |
+| `📂 querys-Olist` | Scripts SQL utilizados para criar as Views e tratar os dados. |
+| `📂 Database-Olist` | Arquivos de dados originais utilizados na análise. |
+| `📂 Imagens` | Screenshots e evidências do projeto. |
+
+---
+
+## 📊 Principais Insights
+
+1.  **Concentração de Vendas:** Uma pequena parcela das categorias (como Beleza e Cama/Mesa/Banho) representa a maior parte do faturamento total.
+2.  **Sazonalidade:** A análise temporal permitiu identificar picos de vendas e planejar melhor a logística.
+3.  **Geografia:** O Sudeste concentra a maior parte dos pedidos, servindo como base para estratégias de frete.
+
+---
+
+## 🔗 Autor
+Desenvolvido por **Guilherme**.
+
+👋 **Entre em contato!**
+* 📧 **Email:** [kodiguila@gmail.com](mailto:kodiguila@gmail.com)
+* 👔 **LinkedIn:** [Acesse meu perfil](https://www.linkedin.com/in/guilherme-soares-88b051300)
