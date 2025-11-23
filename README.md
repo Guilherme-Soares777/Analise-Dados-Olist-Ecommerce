@@ -30,7 +30,6 @@ O objetivo foi processar uma base de dados bruta, transformá-la em informaçõe
 
 ---
 
-##
 ## 📂 Estrutura do Repositório
 
 | Pasta | Descrição |
